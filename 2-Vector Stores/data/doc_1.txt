@@ -1,0 +1,14 @@
+
+    Deep Learning and Neural Networks
+
+    Deep Learning is a subfield of machine learning that uses artificial neural networks
+    with multiple layers to learn complex patterns from large amounts of data. A neural
+    network consists of interconnected neurons organized into input, hidden, and output layers.
+    Each neuron applies weights, a bias, and an activation function to its inputs. Popular
+    activation functions include ReLU, Sigmoid, and Tanh. During training, the network
+    calculates a loss and uses backpropagation to determine how the weights should be updated.
+    Optimization algorithms such as Gradient Descent and Adam are commonly used for training.
+    Convolutional Neural Networks are widely used for computer vision, while Recurrent Neural
+    Networks, LSTMs, and GRUs were traditionally used for sequential data. Modern deep learning
+    also heavily relies on Transformer architectures for language, vision, and multimodal tasks.
+    

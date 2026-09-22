@@ -1,0 +1,14 @@
+
+    Machine Learning fundamentals
+
+    Machine Learning fundamentals focus on teaching computers to learn patterns from data
+    without being explicitly programmed for every task. The main types of machine learning
+    are supervised learning, unsupervised learning, and reinforcement learning. In supervised
+    learning, models learn from labeled data to make predictions or classifications. Common
+    algorithms include Linear Regression, Logistic Regression, Decision Trees, Random Forests,
+    Support Vector Machines, K-Nearest Neighbors, and Gradient Boosting. Unsupervised learning
+    works with unlabeled data and is commonly used for clustering and dimensionality reduction.
+    Important concepts include training and testing datasets, feature engineering, model
+    evaluation, overfitting, underfitting, bias, variance, and cross-validation. Common
+    evaluation metrics include accuracy, precision, recall, F1-score, MAE, and RMSE.
+    

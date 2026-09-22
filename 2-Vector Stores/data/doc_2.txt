@@ -1,0 +1,15 @@
+
+    Natural Language Processing (NLP) 
+
+    Natural Language Processing, or NLP, is a field of artificial intelligence that focuses
+    on enabling computers to understand, process, and generate human language. NLP techniques
+    are used in applications such as chatbots, machine translation, sentiment analysis,
+    text classification, information extraction, and question answering. Text preprocessing
+    may include tokenization, normalization, stop-word removal, stemming, and lemmatization.
+    Traditional NLP systems often represented text using methods such as Bag of Words and TF-IDF.
+    Word embeddings such as Word2Vec, GloVe, and FastText introduced dense numerical
+    representations of words. Modern NLP uses Transformer-based models such as BERT, T5,
+    and GPT-style models. Attention mechanisms allow models to focus on relevant parts of
+    an input sequence. Large Language Models can perform tasks such as summarization,
+    translation, reasoning, question answering, and text generation.
+    
